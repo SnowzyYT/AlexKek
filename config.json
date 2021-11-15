@@ -1,9 +1,7 @@
 {
-    "token": "ODg4ODI2MjM5MDU2NTAyODQ0.YUYV8A.1EBwmjwuEMw_0AM8CB_rBAI7DV0",
+    "token": "",
     "everyoneMention": false,
     "hostedBy": true,
     "default_prefix": ".",
-    "mongoose": "mongodb+srv://Snowzy:dp291106@cluster0.g6mch.mongodb.net/test",
     "ownerid": "502127189727248386",
-    "reportsChannel": "╠📝》reports"
 }
